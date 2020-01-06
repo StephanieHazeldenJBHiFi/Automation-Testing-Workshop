@@ -37,3 +37,7 @@ For each test case, you can assert the following or more;
 *  cart with product added*
 *  cart page showing product*
 *  checkout page showing product*
+
+**Note:** Must setup the following folder structure;
+
+![Project Folder Structure (WS-1)](https://user-images.githubusercontent.com/30585281/71846930-d1184f80-311f-11ea-9344-7ff4467e7aaa.png)
