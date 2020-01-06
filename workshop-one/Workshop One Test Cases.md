@@ -1,4 +1,4 @@
-###### **Test Cases** :collision: :collision: :collision:
+## **Test Cases** :collision: :collision: :collision:
 
 **1.** Add Product to Cart to Reach Checkout Page
 
@@ -32,11 +32,12 @@
 
 
 
-###### **Things to test/verify** :eyes: :eyes: :eyes:
+## **Things to test/verify** :eyes: :eyes: :eyes:
 For each test case, you can assert the following or more;
 *  cart with product added*
 *  cart page showing product*
 *  checkout page showing product*
+
 
 **Note:** Must setup the following folder structure;
 
