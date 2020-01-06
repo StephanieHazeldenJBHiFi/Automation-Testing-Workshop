@@ -42,3 +42,6 @@ For each test case, you can assert the following or more;
 **Note:** Must setup the following folder structure;
 
 ![Project Folder Structure (WS-1)](https://user-images.githubusercontent.com/30585281/71846930-d1184f80-311f-11ea-9344-7ff4467e7aaa.png)
+
+**Cypress UI Tool** :nut_and_bolt::nut_and_bolt:
+![Cypress UI Instruction (WS-1)](https://user-images.githubusercontent.com/30585281/71847434-f9ed1480-3120-11ea-85d9-5b6c137f5566.png)
